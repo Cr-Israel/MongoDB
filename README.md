@@ -1,7 +1,7 @@
 # Products
 
 <h2>Descrição do Projeto</h2>
-<p>O projeto Products foi feito para colocar em prática os conhecimentos adquiridos sobre MongoDB. No projeto, podemos cadastrar produtos variados. Para cadastrar, é preciso adicionar o nome dele, o preço, uma descrição do produto e uma URL do produto. Com ele já cadastrado, o usuário ver o produto, editar suas informações e excluir ele.</p>
+<p>O projeto Products foi feito para colocar em prática os conhecimentos adquiridos sobre MongoDB. No projeto, podemos cadastrar produtos variados. Para cadastrar, é preciso adicionar o nome dele, o preço, uma descrição do produto e uma URL da imagem do produto. Com ele já cadastrado, o usuário ver o produto, editar suas informações e excluir ele.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
